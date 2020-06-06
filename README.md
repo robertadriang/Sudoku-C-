@@ -1,7 +1,9 @@
 # Sudoku-C-
 This is the first version of the Sudoku game. I've done this after getting stucked while solving one... So do what you know better and code your way out.
 
-# Rules
+![Gameplay]()
+
+## Rules
 - As stated by Wikipedia: "Sudoku is a logic-based combinatorial number-placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row and each of the nine 3X3 subgrids that compose the grid contain all of the digits from 1 to 9."
 
 ## How does it work?
